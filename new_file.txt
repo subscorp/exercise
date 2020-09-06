@@ -1,2 +1,6 @@
-starting over
+<<<<<<< HEAD
+bla
 
+=======
+bla
+>>>>>>> ori
